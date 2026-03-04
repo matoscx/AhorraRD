@@ -5,10 +5,15 @@ Desarrollo de un sistema en Python para optimizar compras de productos básicos 
 
 El proyecto incluye:
 Procesamiento y limpieza de datos
+
 Cálculo de precios promedio por zona
+
 Comparación de costos por producto
+
 Generación de métricas de ahorro
+
 Recomendación automática de sustitutos
+
 Cálculo de costo total optimizado
 
 Se utilizaron estructuras de datos y análisis exploratorio para apoyar la toma de decisiones basadas en datos.
